@@ -14,16 +14,20 @@ canine pool.
 
 ### Features
 User login: Owners can sign up and login/logout. Each user will have a profile page with a drop-down 
-feature for edit as well as deleting their profiles.
+feature for editing and deleting their profiles.
 
 Dog Details: Owners can register their dogs (one or more) with edit and delete dog details features.
 
-Schedule an Appointment: Owners can schedule appointments for their dogs at Dogs Always! Doggy daycare 
+Schedule an Appointment: Owners can schedule appointments for their dogs at "Dogs Always! Doggy daycare" 
 with a delete option for deleting the appointments they created.
 
-Pricing: Owners can find out about pricing and how much it would cost (one or more dogs) 
+Pricing: Owners can find out about pricing and how much it would cost (one or more dogs) for boarding one
+or more dogs.
 
-Blog (possible later inclusion): I also plan to add a blog feture with possible dog videos where people 
+Administration: Set up a way for admin to see the day's or the week's appointments for the dogs that would
+come into the daycare.
+
+Blog (possible later inclusion): I also plan to add a blog feature with possible dog videos where people 
 can blog about their dogs and watch informative and funny dog videos.
 
 Vet details: I may also include (if I have time) a vet story where people can add their vet names, address,
@@ -31,14 +35,14 @@ Vet details: I may also include (if I have time) a vet story where people can ad
  
 ### Technologies
 Java
-Spring boot
-Thymeleaf
+Spring Boot
+Thymeleaf templates
 Bootstrap
-JQuery
-Hibernate with MySql
+JQuery/Javascript
+MySql
 
 ### What I'll Have to Learn
-I will learn some JQuery to make my front-end more reactive and better looking.
+I will learn some JQuery or Javascript to make my front-end more reactive and better looking.
 I need to show/hide form fields depending on which radio button a user selects. I will also have color my
 checkboxes red if the user leaves all checkboxes empty.
 
