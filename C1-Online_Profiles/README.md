@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/JuneKinger/dog-walker
+https://github.com/JuneKinger/dog-boarding
  
 ### LinkedIn
 https://www.linkedin.com/in/june-kinger-434138197/
